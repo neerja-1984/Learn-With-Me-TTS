@@ -6,18 +6,19 @@ This repository is structured to guide you through a comprehensive exploration o
 Here's a roadmap to help you navigate this repository and dive into the exciting world of TTS 
 
 ### Essential Links & Resources 🔗
--------
-1) Links Plethora 📖
+------
+
+#### Links Plethora 📖
    
-Head over to [1_Tutorials_Links.md](1_Tutorials_links.md) to find a curated list of important links, tutorials, and resources to kickstart your learning. 📚
+- Head over to [1_Tutorials_Links.md](1_Tutorials_links.md) to find a curated list of important links, tutorials, and resources to kickstart your learning. 📚
 
-2) Understanding the Building Blocks 🎶 
+#### Understanding the Building Blocks 🎶 
 
-Learn all about the different types of synthesizers in [2_types_of_synth.md](2_types_of_synth.md). Discover how they form the core of many TTS systems. 🎹
+- Learn all about the different types of synthesizers in [2_types_of_synth.md](2_types_of_synth.md). Discover how they form the core of many TTS systems. 🎹
 
-3) Code Exploration: Getting Your Hands Dirty with TTS 💻
+#### Code Exploration: Getting Your Hands Dirty with TTS 💻
 
-Dive into the code files folder to explore the Python scripts and implementations. Understand how each part of the TTS pipeline works in practice. 🛠️ [3_expt.md](3_expt.md)
+- Dive into the code files folder to explore the Python scripts and implementations. Understand how each part of the TTS pipeline works in practice. 🛠️ [3_expt.md](3_expt.md)
 
 ## 💻 Some other details of other folders : 
 
