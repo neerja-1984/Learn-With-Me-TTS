@@ -1,7 +1,7 @@
 🗣️ Deep Dive into Text-to-Speech Models: From Synthesizers to Vocoders! 🚀
 
 ## 📖 Repo Primer:
-----
+
 This repository is structured to guide you through a comprehensive exploration of TTS models !!
 Here's a roadmap to help you navigate this repository and dive into the exciting world of TTS 
 
