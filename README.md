@@ -18,7 +18,7 @@ Here's a roadmap to help you navigate this repository and dive into the exciting
 
 #### Code Exploration: Getting Your Hands Dirty with TTS 💻
 
-- Dive into the code files folder to explore the Python scripts and implementations. Understand how each part of the TTS pipeline works in practice. 🛠️ [3_expt.md](3_expt.md)
+- Dive into the code files folder to explore the Python scripts and implementations. Understand the simple forms of TTS and how they work in practice. 🛠️ [3_expt.md](3_expt.md)
 
 ## 💻 Some other details of other folders : 
 
