@@ -1,4 +1,4 @@
-🗣️ Deep Dive into Text-to-Speech Models: From Synthesizers to Vocoders! 🚀
+# 🗣️ Deep Dive into Text-to-Speech Models: From Synthesizers to Vocoders! 🚀
 
 ## 📖 Repo Primer:
 
