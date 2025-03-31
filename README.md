@@ -19,10 +19,11 @@ Dive into the code files folder to explore the Python scripts and implementation
 
 ## 💻 Some other details of other folders : 
 
-MFCC_output/: Contains Mel-frequency cepstral coefficients images -> comes in handy when ur going through : 
-audio_output_2_HMM_based_synthn_2ndTime/: Output audio files from the HMM-based synthesis (second attempt).
-audio_output_2_HMM_based_synthn_1stTime/: Output audio files from the HMM-based synthesis (first attempt).
-code files/: All the Python code used in this project.
-spectrogram_output/: Spectrogram visualizations of the audio ( Expt 1 )
-wav_files/: Raw audio input files.
+- [MFCC output/](MFCC%20output) : Contains Mel-frequency cepstral coefficients images -> comes in handy when ur going through 
+- [audio_output_2_HMM_based_synthn_2ndTime/](audio_output_2_HMM_based_synthn_2ndTime) : Output audio files from the HMM-based synthesis (second attempt).
+- [audio_output_2_HMM_based_synthn_1stTime/](audio_output_2_HMM_based_synthn_1stTime) : Output audio files from the HMM-based synthesis (first attempt).
+- [code files/](code%20files) : All the Python code used in this project.
+- [spectrogram_output/](spectrogram_output) : Spectrogram visualizations of the audio ( Expt 1 )
+- [wav_files/](wav_files) : Raw audio input files.
+
 image-1.png, image-2.png, image-3.png, image-4.png, image.png: Images to get along with in Readme
